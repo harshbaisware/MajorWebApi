@@ -1,0 +1,11 @@
+C:\Users\harsh\source\repos\MajorWebApi\LoanDataAccess\bin\Debug\LoanDataAccess.dll.config
+C:\Users\harsh\source\repos\MajorWebApi\LoanDataAccess\bin\Debug\LoanDataAccess.dll
+C:\Users\harsh\source\repos\MajorWebApi\LoanDataAccess\bin\Debug\LoanDataAccess.pdb
+C:\Users\harsh\source\repos\MajorWebApi\LoanDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\harsh\source\repos\MajorWebApi\LoanDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\harsh\source\repos\MajorWebApi\LoanDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\harsh\source\repos\MajorWebApi\LoanDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\harsh\source\repos\MajorWebApi\LoanDataAccess\obj\Debug\LoanDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\MajorWebApi\LoanDataAccess\obj\Debug\LoanDataAccess.csproj.CopyComplete
+C:\Users\harsh\source\repos\MajorWebApi\LoanDataAccess\obj\Debug\LoanDataAccess.dll
+C:\Users\harsh\source\repos\MajorWebApi\LoanDataAccess\obj\Debug\LoanDataAccess.pdb
